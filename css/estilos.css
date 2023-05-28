@@ -1,0 +1,105 @@
+  
+.kbeza{
+    width: 100%;   
+    background-color: #2D5540;
+    background-position: center;
+    background-size: cover;
+    min-height: 9vh;
+}
+
+.letra{
+    font-size: x-large;
+    color: white;
+}
+
+.fondoindex{
+    background: linear-gradient(rgba(7,7,12,0.65),rgba(7,7,12,0.65)),url(../img/Fondo.png),no-repeat center center fixed;
+}
+    
+.fondoinireg{
+
+    background: rgb(157,212,213);
+background: linear-gradient(0deg, rgba(157,212,213,1) 18%, rgba(227,223,124,1) 71%);
+
+}
+.intro{
+    height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+ .buttonini{
+
+        background-color: #48ff0093;
+        color: rgb(0, 0, 0);
+        border-color: #278a00;
+       
+ }
+
+ 
+ .but:hover {
+    background-color: #48ff00; /* cambia el color de fondo cuando se hace hover */
+    color: #ffffff; /* cambia el color del texto cuando se hace hover */
+    border-color: #48ff00; /* cambia el color del borde cuando se hace hover */
+  }
+
+  .butini:active {
+    background-color: #00ff55; /* cambia el color de fondo cuando se hace clic */
+    color: #fff; /* cambia el color del texto cuando se hace clic */
+    border-color: #00ff55; /* cambia el color del borde cuando se hace clic */
+  }
+  .fssf{
+    color: #ffffff91;
+  }
+
+  .buttonreg{
+
+    background-color: #fffc2d;
+    color: rgb(0, 0, 0);
+   border: #fffc2d;
+
+}
+
+
+
+.butreg:hover {
+background-color: yellow; /* cambia el color de fondo cuando se hace hover */
+color: #ffffff; /* cambia el color del texto cuando se hace hover */
+border-color: yellow; /* cambia el color del borde cuando se hace hover */
+}
+
+.butonreg:active {
+  background-color: #b3ff00; /* cambia el color de fondo cuando se hace clic */
+  color: #fff; /* cambia el color del texto cuando se hace clic */
+  border-color: #b3ff00; /* cambia el color del borde cuando se hace clic */
+}
+
+.acu:hover{
+  color: white; 
+}
+.acule{
+  color: #ffffff91;
+}
+.dr{
+  background-color: #2D5540;
+  color:  white; 
+  /*border-color: #2D5540;*/
+}
+.di:hover {
+  background-color: #2D5540;
+  color: black; 
+}
+
+.contacto { 
+  color: #2D5540;
+  font-size: 27px;
+  padding: 10px;
+}
+
+.bigicon {
+  font-size: 35px;
+  color: #2D5540;
+}
+.icono{
+  font-size: 100px;
+}
+
